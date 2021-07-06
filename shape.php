@@ -4,8 +4,7 @@ abstract class Abstarctshape{
  	
  	public $width;
  	public $height;
-
-
+ 	
 
  public function __construct($width,$height)
  {
